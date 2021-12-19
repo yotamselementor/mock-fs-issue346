@@ -1,0 +1,23 @@
+{
+  "name": "mock-fs-issue346",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --runInBand --verbose --silent"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yotamselementor/mock-fs-issue346.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yotamselementor/mock-fs-issue346/issues"
+  },
+  "homepage": "https://github.com/yotamselementor/mock-fs-issue346#readme",
+  "devDependencies": {
+    "jest": "^27.4.5",
+    "mock-fs": "^5.1.2"
+  }
+}
